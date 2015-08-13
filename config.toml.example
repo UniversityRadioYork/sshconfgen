@@ -1,0 +1,10 @@
+Username = "samw"
+Proxy = "ssh.york.ac.uk"
+
+[[Servers]]
+    Fqdn = "jukebox.york.ac.uk"
+    Aliases = ["juke", "jb"]
+
+[[Servers]]
+    Fqdn = "urybsod.york.ac.uk"
+    Aliases = ["bsod"]
